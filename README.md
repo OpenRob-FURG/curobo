@@ -8,6 +8,24 @@ disclosure or distribution of this material and related documentation
 without an express license agreement from NVIDIA CORPORATION or
 its affiliates is strictly prohibited.
 -->
+<p align="center">
+  <img src="images/openrob_logo.png" alt="OpenRob project logo" width="700" />
+</p>
+
+# cuRobo
+
+Fork maintained by [OpenRob-FURG](https://github.com/OpenRob-FURG), the robotics lab at the Federal University of Rio Grande (FURG), kept as the reference library for GPU-accelerated motion planning and trajectory generation, for use and integration with the OpenArm arm as needed by the lab's manipulation projects.
+
+## Documentation
+
+- Upstream project: [NVlabs/curobo](https://github.com/NVlabs/curobo)
+- Original documentation, installation, and examples: [curobo.org](https://curobo.org)
+- OpenArm ecosystem at the lab: [`openarm-mtc`](https://github.com/OpenRob-FURG/openarm-mtc) · [`openarm_ros2`](https://github.com/OpenRob-FURG/openarm_ros2)
+
+The content below is the original upstream project documentation.
+
+---
+
 # cuRobo
 
 *CUDA Accelerated Robot Library*
