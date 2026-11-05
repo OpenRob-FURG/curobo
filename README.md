@@ -14,13 +14,13 @@ its affiliates is strictly prohibited.
 
 # cuRobo
 
-Fork maintained by [OpenRob-FURG](https://github.com/OpenRob-FURG), the robotics lab at the Federal University of Rio Grande (FURG), kept as the reference library for GPU-accelerated motion planning and trajectory generation, for use and integration with the OpenArm arm as needed by the lab's manipulation projects.
+Fork maintained by [OpenRob-FURG](https://github.com/OpenRob-FURG), one of the robotics projects at the Federal University of Rio Grande (FURG), kept as the reference library for GPU-accelerated motion planning and trajectory generation, for use and integration with the OpenArm arm as needed by the project's manipulation projects.
 
 ## Documentation
 
 - Upstream project: [NVlabs/curobo](https://github.com/NVlabs/curobo)
 - Original documentation, installation, and examples: [curobo.org](https://curobo.org)
-- OpenArm ecosystem at the lab: [`openarm-mtc`](https://github.com/OpenRob-FURG/openarm-mtc) · [`openarm_ros2`](https://github.com/OpenRob-FURG/openarm_ros2)
+- OpenArm ecosystem at the project: [`openarm_isaac_lab`](https://github.com/OpenRob-FURG/openarm_isaac_lab) · [`openarm_hardware`](https://github.com/OpenRob-FURG/openarm_hardware) · [`openarm_data_collection`](https://github.com/OpenRob-FURG/openarm_data_collection) · [`openarm-mtc`](https://github.com/OpenRob-FURG/openarm-mtc)
 
 The content below is the original upstream project documentation.
 
